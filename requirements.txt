@@ -1,0 +1,27 @@
+# OCR and PDF Processing
+pytesseract==0.3.10
+pdf2image==1.16.3
+Pillow==9.5.0
+
+# NLP and Transformers
+transformers==4.41.2
+sentence-transformers==2.7.0
+torch==2.3.0
+sacremoses==0.0.53
+
+# Vector Search
+faiss-cpu==1.7.4
+
+# Preprocessing
+nltk==3.8.1
+numpy==1.26.4
+regex==2024.4.16
+
+# Async helper
+nest_asyncio==1.6.0
+
+# Language Detection
+langdetect==1.0.9
+
+# RAG Framework (Optional / Bonus Tools)
+langchain==0.2.2
